@@ -1,0 +1,48 @@
+.orders{
+    margin: 2% 0% 0% 20% ;
+}
+
+.orders .table{
+    margin: 2% 1% 1% 1%;
+    width: 90%;
+    text-align: center;
+}
+
+
+@media (max-width: 576px) {
+    .orders{
+        margin: 2% 0% 0% 20%;
+    }
+    
+    .orders .table{
+        width: 80%;
+        text-align: start;
+    } 
+}
+
+@media (max-width: 768px) {
+    .orders{
+        margin: 2% 0% 0% 20%;
+    }
+    .orders .table{
+        width: 95%;
+    } 
+}
+
+@media (max-width: 992px) {
+    .orders{
+        margin: 2% 0% 0% 20%;
+    }
+    .orders .table{
+        width: 95%;
+    } 
+}
+
+@media (max-width: 1200px) {
+    .orders{
+        margin: 2% 0% 0% 20%;
+    }
+    .orders .table{
+        width: 95%;
+    } 
+}

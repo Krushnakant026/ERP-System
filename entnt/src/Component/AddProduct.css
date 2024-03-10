@@ -1,0 +1,24 @@
+.container {
+    margin: 3% 0% 0% 20% !important;
+    text-align: center;
+}
+
+.container .form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.container .form .form-group{
+        width: 100%;
+}
+
+.container .form .form-group input{
+    width: 50%;
+    margin-left: 25%;
+} 
+
+.container .form .button1 .btn {
+    width: 100%;
+} 
